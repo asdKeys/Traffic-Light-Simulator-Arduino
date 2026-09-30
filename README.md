@@ -15,6 +15,7 @@ Download the Arduino IDE, then copy and paste the code in the file "Traffic_Simu
 - any breadboard
 - 4 green LED's
 - 4 red LED's
+- 8 220 resistance resistors.
 - 9 wires
 
 ### Diagram
