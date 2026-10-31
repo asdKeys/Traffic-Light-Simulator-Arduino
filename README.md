@@ -22,7 +22,7 @@ Download the Arduino IDE, then copy and paste the code in the file "Traffic_Simu
 
 Here is a diagram that shows the wiring: 
 
-![Screenshot1](Screenshot%202026-09-29%20184744.png)
+![Screenshot1](Screenshot%202026-10-31%20152911.png)
 
 ## Created With
 
